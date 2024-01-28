@@ -18,5 +18,7 @@
     <body class="antialiased">
             
             <livewire:hello-world />
+
+            <livewire:counter />
     </body>
 </html>
