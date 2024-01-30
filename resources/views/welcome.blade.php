@@ -16,9 +16,11 @@
         </style>
     </head>
     <body class="antialiased">
-            
+<!--             
             <livewire:hello-world />
 
-            <livewire:counter />
+            <livewire:counter /> -->
+
+            <livewire:to-do />
     </body>
 </html>
